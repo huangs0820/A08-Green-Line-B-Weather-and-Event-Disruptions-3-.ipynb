@@ -1,4 +1,5 @@
 # A08-Green-Line-B-Weather-and-Event-Disruptions-3-.ipynb
+Team Project BA780: Susan Huang, Ingrid Felix, Ruining Shan, Tia Theseira and Kaiser Lu
 
 1. Overview
 
